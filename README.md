@@ -12,7 +12,7 @@
 
 ## 在线体验
 
-_部署中..._
+👉 https://weijie380.github.io/heart-particles/
 
 ## 本地运行
 
